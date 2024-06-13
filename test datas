@@ -1,0 +1,27 @@
+"id": 6,
+"email": "afweidnvs@gmail.com",
+"address_id": 1,
+"first_name": "ogabek",
+"last_name": "obidov",
+"username": "user1",
+"password": "12345"
+
+
+lesson
+"id": 2,
+"title": "core lesson",
+"description": "intro",
+"homework": "homework"
+
+modules
+"id": 4,
+"name": "python core 1",
+"description": "intro python",
+"lesson_id":2
+
+course
+"id": 3,
+"name": "python1",
+"description": "intro python",
+"price": 100,
+"module_id":1
